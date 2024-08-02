@@ -68,7 +68,7 @@ const Index = () => {
   }, []);
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-500 to-purple-600 text-white">
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-500 to-green-800 text-white">
       <div className="text-center">
         <h1 className="text-8xl font-bold mb-8">{cheers.spelling}</h1>
         <p className="text-3xl mb-2">{cheers.language}</p>

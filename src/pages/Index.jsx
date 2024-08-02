@@ -27,7 +27,7 @@ const cheersData = [
   { language: 'Galician', spelling: 'Salud', pronunciation: 'Sa-lood' },
   { language: 'German', spelling: 'Prost', pronunciation: 'Prohst' },
   { language: 'Greek', spelling: 'ΥΓΕΙΑ', pronunciation: 'Yamas' },
-  { language: 'Hawaiian', spelling: 'Å'kålè ma'luna', pronunciation: 'Okole maluna' },
+  { language: 'Hawaiian', spelling: 'Ā kālā ma luna', pronunciation: 'Okole maluna' },
   { language: 'Hebrew', spelling: 'לחיים (L\'chaim)', pronunciation: 'leh hayem' },
   { language: 'Hungarian', spelling: 'Egészségedre', pronunciation: 'Egg-esh ay-ged-reh' },
   { language: 'Icelandic', spelling: 'Skál', pronunciation: 'Sk-owl' },

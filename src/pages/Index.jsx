@@ -68,11 +68,11 @@ const Index = () => {
   }, []);
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-500 to-green-800 text-white">
-      <div className="text-center">
-        <h1 className="text-8xl font-bold mb-8">{cheers.spelling}</h1>
-        <p className="text-3xl mb-2">{cheers.language}</p>
-        <p className="text-xl italic">{cheers.pronunciation}</p>
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-500 to-green-800 text-white p-4">
+      <div className="text-center max-w-full">
+        <h1 className="text-4xl sm:text-6xl md:text-8xl font-bold mb-4 sm:mb-8 break-words">{cheers.spelling}</h1>
+        <p className="text-xl sm:text-2xl md:text-3xl mb-2">{cheers.language}</p>
+        <p className="text-lg sm:text-xl italic">{cheers.pronunciation}</p>
       </div>
     </div>
   );
